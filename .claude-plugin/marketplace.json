@@ -1,0 +1,23 @@
+{
+  "name": "moore-fundraising-solutions",
+  "owner": {
+    "name": "Moore Fundraising Solutions",
+    "email": "amoore@moorefundraisingsolutions.com"
+  },
+  "metadata": {
+    "description": "Free Claude plugins for nonprofits from Moore Fundraising Solutions."
+  },
+  "plugins": [
+    {
+      "name": "mfs-diy-grant-system",
+      "source": "./plugins/mfs-diy-grant-system",
+      "description": "A do-it-yourself AI grant system for small and midsized nonprofits, from readiness check to grant report.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Moore Fundraising Solutions"
+      },
+      "category": "productivity",
+      "keywords": ["grants", "nonprofit", "fundraising"]
+    }
+  ]
+}
