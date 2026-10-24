@@ -1,0 +1,23 @@
+{
+  "name": "mfs-diy-grant-system",
+  "displayName": "MFS DIY Grant System",
+  "version": "1.0.0",
+  "description": "A do-it-yourself AI grant system for small and midsized nonprofits: check your readiness, build your AI policy, theory of change, master grant, and goal budget, then find funders, plan deadlines, draft proposals and budgets, check before submitting, manage awards, and write reports. Created by Moore Fundraising Solutions.",
+  "author": {
+    "name": "Moore Fundraising Solutions",
+    "email": "amoore@moorefundraisingsolutions.com",
+    "url": "https://moorefundraisingsolutions.com"
+  },
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "grants",
+    "nonprofit",
+    "grant writing",
+    "grant management",
+    "fundraising",
+    "AI policy",
+    "theory of change"
+  ],
+  "homepage": "https://moorefundraisingsolutions.com",
+  "repository": "https://github.com/amoore-fundraising/mfs-diy-grant-system"
+}
