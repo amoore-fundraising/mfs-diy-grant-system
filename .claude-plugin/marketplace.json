@@ -11,8 +11,8 @@
     {
       "name": "mfs-diy-grant-system",
       "source": "./plugins/mfs-diy-grant-system",
-      "description": "A do-it-yourself AI grant system for small and midsized nonprofits, from readiness check to grant report.",
-      "version": "1.0.0",
+      "description": "A do-it-yourself AI grant system for small and midsized nonprofits. Start with what you have.",
+      "version": "1.1.0",
       "author": {
         "name": "Moore Fundraising Solutions"
       },
