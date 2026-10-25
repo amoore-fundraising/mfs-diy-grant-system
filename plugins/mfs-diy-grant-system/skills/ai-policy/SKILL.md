@@ -9,6 +9,8 @@ Turn a short conversation into a finished AI Ethos and Policy the organization c
 
 Apply grant-guardrails throughout. Read organization-profile if a profile exists; it is not required for this skill.
 
+This skill needs no uploaded documents. It is often the first thing a new organization does, before uploading anything else. If it was started from setup-grant-system, return to setup when the draft is done, and use the new policy's rules from then on.
+
 ## Inputs
 
 - The template at `templates/ai-policy-template.md` in this skill's folder. Always start from it.

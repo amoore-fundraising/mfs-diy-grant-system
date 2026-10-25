@@ -11,6 +11,19 @@ Apply organization-profile and grant-guardrails throughout. Salaries may be sens
 
 This skill always asks, confirms, and then builds. Never build from the first message.
 
+## Check the starting point first
+
+A goal budget is an advanced step. It works best when the organization already has a budget split by program. Many small nonprofits do not, and that is normal.
+
+Before Step 1, ask whether they track costs by program or have a program budget.
+
+- **Yes:** continue with Step 1.
+- **No:** explain kindly that a goal budget builds on a program budget, and offer two paths:
+  1. Start with a simple estimated program budget based on staff time (see grant-budget). This needs no changes from their bookkeeper.
+  2. Build the goal budget with estimates now, clearly labeled as estimates, for planning conversations only.
+
+  Mention once that many organizations build a goal budget with a nonprofit-savvy advisor and their finance person, because it often means translating between what donors and funders want to see and how the books are kept. Then let the user choose.
+
 ## Step 1: Read what the user shares
 
 Ask for the approved operating budget for this year. Also welcome: a staffing list with titles, FTE, and salaries; any program cost breakdown from the finance person; and notes from a planning conversation about the ideal budget.

@@ -20,6 +20,20 @@ Apply organization-profile and grant-guardrails throughout.
 
 Never invent a cost, salary, rate, or revenue figure. Any missing number is a yellow `[XX: what is needed]` cell.
 
+## If they don't track costs by program
+
+Many small nonprofits keep one organization budget and do not split costs by program. That is normal, and it is fine for most grants. Never make the user feel behind for it.
+
+Offer to estimate the program's share of costs from the organization budget:
+
+1. **Staff:** for each position that works on the program, ask roughly what share of their time goes to it (for example, "about half"). Multiply salary by that share.
+2. **Shared costs** (rent, utilities, insurance, phones, technology): suggest using the program's share of total staff time as the share of these costs, unless the user knows a better way (for example, the program uses one room out of four).
+3. **Direct costs:** anything used only by this program counts 100% to it.
+
+The percentages come from the user, never from you. Label the result "Estimated program budget, based on staff time" and keep a short note of how each line was estimated, so the user can explain it if a funder asks. Suggest that their bookkeeper or treasurer look it over. Their bookkeeper does not need to change how they keep the books for this.
+
+If the user wants to start tracking costs by program going forward, mention that this is a conversation with their bookkeeper, and that a nonprofit-savvy advisor can help translate what funders need. Say it once and move on.
+
 ## Step 1: Ask, in one round
 
 Before building, confirm:
@@ -28,8 +42,9 @@ Before building, confirm:
 2. The request amount, if already decided
 3. The grant period
 4. Which staff positions work on the program and what share of their time
-5. Whether the funder allows indirect costs, and at what rate (from the guidelines)
-6. Match required, and where it will come from
+5. Whether they track costs by program, or want to estimate from the organization budget (see above)
+6. Whether the funder allows indirect costs, and at what rate (from the guidelines)
+7. Match required, and where it will come from
 
 ## Step 2: Build the budget
 
